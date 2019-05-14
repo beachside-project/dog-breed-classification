@@ -17,7 +17,7 @@ Azure Custom Vision では以下のことができます。
 
 ## STEP 1-1. Custom Vision のインスタンス作成
 
-まず、Azure Portal (URL: https://portal.azure.com/ ) を開きます。
+まず、Azure Portal (URL: https://portal.azure.com/ ) を開き、左側にある **リソースの作成** をクリックします。
 
 ![create resource](../images/01-01.png)
 
@@ -79,11 +79,13 @@ Custom Vision のポータル (URL: https://www.customvision.ai ) を開きま�
 
 ## STEP 1-3. 犬の画像をダウンロード
 
-分類器にアップロードする画像をダウンロードします。
+分類器にアップロードし学習させる犬の画像を用意していますので、ダウンロードしましょう。
 
-以下のリンクのページから、ダウンロードボタンをクリックし画像の zip ファイルをダウンロードします。ダウンロードしたら任意の場所に展開しておきましょう。
+以下のリンクのページ（このGitHub リポジトリーの sample-dog-images/dogs.zip ）を開き、**Download** ボタンをクリックして zip ファイルをダウンロードします。ダウンロードしたら任意の場所に展開しておきましょう。
 
-> # TODO: ファイルのリンク
+https://github.com/beachside-project/dog-breed-classification/blob/master/sample-dog-images/dogs.zip
+
+&nbsp;
 
 この中は、各フォルダが犬種名になっており、それぞれの画像が入っています。
 
@@ -170,6 +172,8 @@ Quick Test ウインドウが開きます。
 
 トレーニングした分類器を WebAPI として公開し、外部からアクセスできるようにします。
 
+画面上部の **Performance** をクリックし、 **Publish** をクリックします。
+
 ![01-18](../images/01-18.png)
 
 &nbsp;
@@ -180,14 +184,18 @@ Quick Test ウインドウが開きます。
 
 &nbsp;
 
-画面左に **PUBLISHED** と表示されます。画面上部中央の **Prediction URL** をクリックすると、WebAPI でアクセスするのに必要な情報が表示されます。次の Chapter で Logic Apps から入力する際に利用します。
+画面左にの「Iteration 1」の横に **PUBLISHED** と表示されます。トレーニングをするごとに分類器のモデルのバージョンがここに表示され、管理することが可能です。
+
+画面上部中央の **Prediction URL** をクリックすると、「Iteration 1」へ WebAPI でアクセスするのに必要な情報が表示されます。次の Chapter で Logic Apps から入力する際に利用します。
 
 ![01-19](../images/01-20.png)
 
 &nbsp;
 
-おめでとうございます:star2:  
-機械学習のコーディングをせずに、犬の画像分類器の作成することができました。
+## NEXT STEP
+
+**おめでとうございます！**:star2:  
+機械学習のコーディングなしで犬の画像分類器の作成し、利用できるようになりました。
 
 次の Chapter では Logic Apps を使ってこの分類器にアクセスし、アプリを完成させます。
 
