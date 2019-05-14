@@ -81,9 +81,13 @@ Custom Vision のポータル (URL: https://www.customvision.ai ) を開きま�
 
 分類器にアップロードし学習させる犬の画像を用意していますので、ダウンロードしましょう。
 
-以下のリンクのページ（このGitHub リポジトリーの sample-dog-images/dogs.zip ）を開き、**Download** ボタンをクリックして zip ファイルをダウンロードします。ダウンロードしたら任意の場所に展開しておきましょう。
+以下のリンクのページ（このGitHub リポジトリーの sample-dog-images/dogs.zip ）を開きます。
 
 https://github.com/beachside-project/dog-breed-classification/blob/master/sample-dog-images/dogs.zip
+
+**Download** ボタンをクリックして zip ファイルをダウンロードします。ダウンロードしたら任意の場所に zip を展開しておきましょう。
+
+![01-21](../images/01-21.png)
 
 &nbsp;
 
