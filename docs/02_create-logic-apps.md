@@ -134,7 +134,7 @@ Azure Portal 左側にある **リソースの作成** をクリックします�
 
 - **LSubscription**: 任意のサブスクリプションを選択
 - **Resource Type**: 「Microsoft.Storage.StorageAccounts」
-- **Resource Name**: 保存用のストレージを選択
+- **Resource Name**: 画像用のストレージを選択
 - **Event Type Item - 1**: 「Microsoft.Storage.BlobCreated」
 
 ![02-11](../images/02-11.png)
@@ -201,7 +201,7 @@ Azure Portal 左側にある **リソースの作成** をクリックします�
 - **コンテンツ**: **動的なコンテンツの追加** をクリックし、HTTPの「本文」を選択
 - **スキーマ**: [こちらの Json スキーマ（このGitHubリポジトリーの src > custom-vision-output-schema.json）](../src/custom-vision-output-schema.json)を貼り付けます。
 
-![02-16](../images/02-16.png)
+![02-27](../images/02-27.png)
 
 &nbsp;
 
