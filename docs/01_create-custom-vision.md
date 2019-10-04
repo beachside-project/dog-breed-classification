@@ -204,8 +204,8 @@ Quick Test ウインドウが開きます。
 次はアプリを開発して Custom Vision を組み込んで行きます。
 
 - [Logic Apps を使ったアプリ開発に進む](./02_create-logic-apps.md)
-- [PowerApps を使ったモバイルアプリ開発に進む](./docs/03_create-powerApps.md)
+- [PowerApps を使ったモバイルアプリ開発に進む](./03_create-powerApps.md)
 
 ---
 
-[戻る](../README.md) | [次へ進む]
+[README へ戻る](../README.md)

@@ -318,10 +318,8 @@ Azure ポータルで、Logic Apps の**概要**から、**実行履歴**を見�
 
 &nbsp;
 
-これでハンズオンは終了となります。
-
-次の Chapter では、今回作成したリソースが不要な場合、削除します。
+次の Chapter では、PowerApps を使って Custom Vison 機能を使えるモバイルアプリを開発します。
 
 ---
 
-[戻る](./01_create-custom-vision.md) | [PowerApps で Custom Vision を使ったアプリ開発 へ進む](./docs/03_create-powerApps.md)
+[戻る](./01_create-custom-vision.md) | [PowerApps で Custom Vision を使ったアプリ開発 へ進む](./03_create-powerApps.md)
