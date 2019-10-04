@@ -1,4 +1,4 @@
-# Chapter 2. Logic Apps でアプリ開発
+# Chapter 2. Logic Apps で Custom Vision を使ったアプリ開発
 
 この Chapter では、Logic Apps を利用して、Custom Vision と連携して、画像の犬種判別ができるアプリを開発します。
 
@@ -324,4 +324,4 @@ Azure ポータルで、Logic Apps の**概要**から、**実行履歴**を見�
 
 ---
 
-[戻る](./01_create-custom-vision.md) | [次へ進む](./03_cleanup_resources.md)
+[戻る](./01_create-custom-vision.md) | [PowerApps で Custom Vision を使ったアプリ開発 へ進む](./docs/03_create-powerApps.md)

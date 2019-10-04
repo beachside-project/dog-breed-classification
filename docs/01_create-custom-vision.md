@@ -201,8 +201,11 @@ Quick Test ウインドウが開きます。
 **おめでとうございます！**:star2:  
 機械学習のコーディングなしで犬の画像分類器の作成し、利用できるようになりました。
 
-次の Chapter では Logic Apps を使ってこの分類器にアクセスし、アプリを完成させます。
+次はアプリを開発して Custom Vision を組み込んで行きます。
+
+- [Logic Apps を使ったアプリ開発に進む](./02_create-logic-apps.md)
+- [PowerApps を使ったモバイルアプリ開発に進む](./docs/03_create-powerApps.md)
 
 ---
 
-[戻る](../README.md) | [次へ進む](./02_create-logic-apps.md)
+[戻る](../README.md) | [次へ進む]
