@@ -7,6 +7,8 @@ Microsoft Azure の以下のサービスを活用し、コーディング無し�
 - **Logic Apps**:
   コーディング無しでクラウドやオンプレミスにあるアプリを統合しワークフローを構築できるサービス
 
+また、PowerApps を使ってCustom Vision を活用したモバイルアプリを開発します。
+
 ## 概要
 
 画像を Azure の Blob Storage に置くと、以下の動作をするアプリを開発します。
@@ -18,17 +20,21 @@ Microsoft Azure の以下のサービスを活用し、コーディング無し�
 
 ![overview](./images/00-overview.png)
 
+> ## PowerApps に関する記載は、現在更新対応中です。
+
 ## ゴール
 
 このハンズオンでは、以下を理解することをゴールとしています。
 
 - Custom Vision の基本的な利用方法を知る
 - Logic Apps に触れてみる
+- PowerApps で Custom Vision を組み込んだモバイルアプリを作れるようになる
 
 ## 前提・準備
 
 - Azure のサブスクリプションが必要となります。開始前にご準備ください。
 - Azure ポータルや Custom Vision ポータルでの操作には、モダンなブラウザー(Chrome や FireFox, Microsoft Edgeなど)が必要です。
+- PowerApps のハンズオンを行う場合は、ライセンス（無償版もあります）が必要です。
 
 ## ハンズオンの構成
 

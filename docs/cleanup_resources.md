@@ -8,4 +8,4 @@ Azure ポータルで、作成したリソースグループを開き、画面�
 
 ---
 
-[戻る](./02_create-logic-apps.md) | [README へ戻る](../README.md) 
+[README へ戻る](../README.md) 
