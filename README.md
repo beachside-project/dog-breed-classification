@@ -35,8 +35,9 @@ Microsoft Azure の以下のサービスを活用し、コーディング無し�
 |Chapter|概要|
 |--:|---|
 |1|[Custom Vision で犬種判別の分類器作成](./docs/01_create-custom-vision.md)|
-|2|[Logic Apps でアプリ開発](./docs/02_create-logic-apps.md)|
-|3|[リソースグループの削除](./docs/03_cleanup_resources.md)|
+|2|[Logic Apps で Custom Vision を使ったアプリ開発](./docs/02_create-logic-apps.md)|
+|3|[PowerApps で Custom Vision を使ったアプリ開発](./docs/03_create-powerApps.md)|
+|-|[リソースグループの削除](./docs/cleanup_resources.md)|
 
 ---
 
